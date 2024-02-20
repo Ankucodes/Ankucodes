@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akanksha</h1>
-<h3 align="center">I'm a dedicated software engineer from India with over 5 years of professional experience. Throughout my career, I have gained expertise in a variety of domains, including data engineering, data science, analytics and web development.</h3>
+<h3 align="center">I'm a dedicated BI engineer from India with over 5 years of professional experience. Throughout my career, I have gained expertise in a variety of domains, including data engineering, data science, analytics and web development.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ankucodes&label=Profile%20views&color=0e75b6&style=flat" alt="ankucodes" /> </p>
 
