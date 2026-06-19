@@ -1,7 +1,7 @@
 <h3 align="left">Core Competencies</h3>
 
 <!-- ===================== ANALYTICS ===================== -->
-<h3 align="left">📊 Analytics & BI</h3>
+<h3 align="left">Analytics and Business Intelligence</h3>
 
 <p align="left">
 
@@ -26,7 +26,7 @@
 ---
 
 <!-- ===================== DATA ENGINEERING ===================== -->
-<h3 align="left">⚙️ Data Engineering (Cloud + Pipelines)</h3>
+<h3 align="left">Data Engineering and Cloud Engineering</h3>
 
 <p align="left">
 
@@ -43,7 +43,11 @@
 </a>
 
 <a href="https://www.getdbt.com/" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/dbt.svg" alt="dbt semantic layer" width="40" height="40"/>
+<img src="https://cdn.worldvectorlogo.com/logos/dbt.svg" alt="dbt" width="40" height="40"/>
+</a>
+
+<a href="https://www.getdbt.com/product/semantic-layer/" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/dbt.svg" alt="semantic layer" width="40" height="40"/>
 </a>
 
 <a href="https://airflow.apache.org/" target="_blank" rel="noreferrer">
@@ -59,7 +63,7 @@
 ---
 
 <!-- ===================== AI / ML ===================== -->
-<h3 align="left">🤖 AI / ML Engineering</h3>
+<h3 align="left">Artificial Intelligence and Machine Learning</h3>
 
 <p align="left">
 
